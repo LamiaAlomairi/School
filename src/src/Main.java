@@ -24,6 +24,7 @@ public class Main {
 			    first_selection--;
 			    
 			    firstMenu.menu1.get(first_selection).action();
+			    
 			    }
 			    else {
 			    	System.out.println("Invalid input, please enter a valid input");

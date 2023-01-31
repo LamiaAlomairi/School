@@ -13,6 +13,9 @@ public class Array {
 	    this.menu1.add(new PrintList());
 	    this.menu1.add(new SearchStudent());
 	    this.menu1.add(new AppStatistic());
+	    this.menu1.add(new CreateFile());
+	    this.menu1.add(new SearchFromFile());
+	    this.menu1.add(new SaveFileInFolder());
 	    this.menu1.add(new Exit());
 	    
 	    this.menu2.add(new School());
